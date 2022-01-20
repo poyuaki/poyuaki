@@ -1,16 +1,9 @@
 # Self introduction
-## the languages I use mostly
-- JavaScript
-- PHP
-- Python
+The languages I use mostly ... JavaScript | PHP | Java
 
-## My website
-<div align="center">
-  <a href="https://hubttery.sakura.ne.jp">HubTtery</a>
-</div>
+My website ... <a href="https://hubttery.sakura.ne.jp">HubTtery</a>
 
-## Country
-Japan
+Country ... Japan
 
 <!--
 **poyuaki/poyuaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
