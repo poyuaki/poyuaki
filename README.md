@@ -1,4 +1,16 @@
-### Hi there 👋
+# Self introduction
+## the languages I use mostly
+- JavaScript
+- PHP
+- Python
+
+## My website
+<div align="center">
+  <a href="https://hubttery.sakura.ne.jp">HubTtery</a>
+</div>
+
+## Country
+Japan
 
 <!--
 **poyuaki/poyuaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
