@@ -1,21 +1,17 @@
-# Self introduction
-The languages I use mostly ... JavaScript | PHP | Java
 
-My website ... <a href="https://hubttery.sakura.ne.jp">HubTtery</a>
+<h1 align="center">赤紫</h1>
+<h3 align="center">akamurasaki</h3>
+<div align="center">
+  <a href="https://hubttery.sakura.ne.jp">LookMyApp</a> | 
+  <a href="https://twitter.com/m0k1m0k1">twitter</a>
+</div>
 
-Country ... Japan
+自分がよくいじってる言語 ... **JavaScript** | PHP | Java
 
-<!--
-**poyuaki/poyuaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+出身地 ... 日本🇯🇵
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+開発中プロジェクト📄
+| プロジェクト名 | 内容 | 進捗状況 | リリース日等 |
+|---|---|---|---|
+| とどまり | webタスク管理ツール | 大幅な遅れ。[プロジェクト](https://github.com/users/poyuaki/projects/3) | 完全未定 |
+| coaca.ts | RPNを用いた計算ツール | そこそこ進んでる。[プロジェクト](https://github.com/poyuaki/coaca.ts/projects/2) | 2月中旬頃 |
