@@ -14,6 +14,6 @@
 | プロジェクト名 | 内容 | 進捗状況 | リリース日等 |
 |---|---|---|---|
 | とどまり | webタスク管理ツール | 大幅な遅れ。[プロジェクト](https://github.com/users/poyuaki/projects/3) | 完全未定 |
-| coaca.ts | RPNを用いた計算ツール | そこそこ進んでる。[プロジェクト](https://github.com/poyuaki/coaca.ts/projects/2) | 2月中旬頃 |
+| coaca.ts | RPNを用いた計算ツール | webアプリ化完了！[プロジェクト](https://github.com/poyuaki/coaca.ts/projects/2) | v1.0.1リリース開始(22.02.12) |
 
 ※現在、全てのプロジェクトにおいて大規模な延期が発生しており、今後も続く予定です。正確な目処も立てない状況ですが、<b>1年程度の延期</b>が予想されます。ご理解のほど、よろしくお願いいたします。
